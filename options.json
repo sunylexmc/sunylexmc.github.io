@@ -1,0 +1,5 @@
+const session = {
+  ip: "Sunylex.minehut.gg",
+  title: "Sunylex",
+};
+localStorage.setItem("session", JSON.stringify(session));

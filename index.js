@@ -60,6 +60,7 @@ function modifyState() {
 function notInPoint() {
     alert("This feature is still not in point!");
 }
+window.location.href = "";
 document.getElementById("navbar1").innerHTML = `
 <li><a onclick="modifyState()">Home</a></li>
 <li><a href="`+applyLink+`">Apply</a></li>

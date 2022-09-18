@@ -17,5 +17,3 @@
     newsMargin = `5px`;
   // LOGIN
     loginErrorMessage = `Please insert something!`;
-  // OTHERS
-    maintenance = false;

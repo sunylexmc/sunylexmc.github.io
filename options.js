@@ -18,4 +18,4 @@
   // LOGIN
     loginErrorMessage = `Please insert something!`;
   // OTHERS
-    maintenance = true;
+    maintenance = false;
